@@ -61,3 +61,9 @@ button:hover {
 .form_title_container {
     height: 150px;
 }
+
+.text_area {
+    margin-bottom: 30px;
+    resize: none;
+    font-family: Arial, sans-serif;
+}
